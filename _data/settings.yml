@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: N-Artisan
+description: Thinker // Musical Consellor // YouTuber // Engineer
+email: tazrianismail@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
+- {name: Who am I, url: '#about-me'}
+- {name: Interests, url: '#work'}
+- {name: Collaborators, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
@@ -19,7 +19,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
+  description: 'I am an Artisan and dopamine acts spontaeneously on my blood.Autonous Robot. AI on Property Prediction'
   rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
   rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
 
@@ -39,34 +39,35 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
+  **Tazrian specializes in building** autonous robots and AI based Neural Networks.
+  Most of the things he makes are [media interfaces](https://www.facebook.com/video.php?v=1883060076566{:target="_blank"}),
+  but he also puts effort into making musicals [post-genre music](https://soundcloud.com/tazrianismail/alladin-dubby-howd-be-my?fb_action_ids=10200661698445216&fb_action_types=soundcloud%3Alisten&fb_source=other_multiline&action_object_map=%5B164331260377676%5D&action_type_map=%5B%22soundcloud%3Alisten%22%5D&action_ref_map=%5B%5D&fb_collection_id=10151549409496799&ref=profile})
+  and [YouTube videos](https://www.youtube.com/watch?v=Nlyeo0xizGI){:target="_blank"} creating exclusive stuffs.
+
 
 
 skills:
-- {name: Communication, value: '9'}
-- {name: Organization, value: '7'}
+- {name: Communication, value: '8'}
+- {name: Organization, value: '9'}
 - {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
-- {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
+- {name: Teaching, value: 10}
+- {name: Planning, value: '5'}
+- {name: Visual Design, value: '8'}
+- {name: UX Design, value: '5'}
 - {name: Programming, value: '6'}
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Relativity & Astrophysics, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Machine Learning, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Autonomous Robot, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Artificial Intelligence, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Materials Engineering, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Autonomous Glider, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Cryptography, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Mystery-fiction, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 
@@ -76,24 +77,24 @@ projects:
 
 clients:
 - {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  name: 'Jius Kakka',
+  title: 'Managing Director, Plenty Holidays',
+  quote: '<p><strong>While we all felt that Nahin was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should pick phone calls more often.</p>',
   logo: 'logo1.png'}
 - {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+  name: 'Rahat Hossain',
+  title: 'Director of Marketing & Merchandising, Astex Garments Ltd.',
+  quote: '<p><strong>Working with Nahin was the highlight of my career.</strong> Other moments of note were chilling in the rainy,windy weather and winning a trophy for saying "yo bro, and wassup?"</p>',
   logo: 'logo2.png'}
 - {avatar: 'face-jackiesaik.jpg',
-  name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+  name: 'Narong Apiratsakun, ..PhD.',
+  title: 'Dean of Mechatronics, ABAC',
+  quote: '<p><strong>Yea, I guess hes good at understanding and working hard,</strong> but his strength includes: his "never-give up" attitude. </p>',
   logo: 'logo3.png'}
 - {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+  name: 'Mohsin Tareque',
+  title: 'International Interpreter, UNHCR',
+  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk.Now thats called fighting back!!</p>',
   logo: 'logo4.png'}
 
 
@@ -101,11 +102,11 @@ clients:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
-- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
-- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
-- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+- {icon: 'twitter', link: 'https://twitter.com/Tazrianismail'}
+- {icon: 'dribbble', link: 'https://dribbble.com/Tazrianismail'}
+- {icon: 'behance', link: 'https://www.behance.net/TAZRIANISMAIL'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCvxbMudosvgn92c7CAlqTOw'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/tazrian-ismail-nahin-635610122?trk=nav_responsive_tab_profile'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
